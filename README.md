@@ -3,8 +3,8 @@
 
 Project 6 Overview:
 I am creating three classes.
-The first class is the Shape class that will serve as a base class for the other two classes. 
-The second class is the Rectangle class that will inherit from Shape class.
-The third class is the Triangle class that also will inherit from the Shape class.
+The first class is the Shape class that will serve as a base class for the other two classes and I use arrow function to calculate the perimeter of the specific shape. 
+The second class is the Rectangle class that will inherit from Shape class and I use arrow function to calculate the rectangle area.
+The third class is the Triangle class that also will inherit from the Shape class and I use the arrow to calculate the triangle area.
 
-The base Shape class will provide the common functionality of a method that returns the perimeter value. Each of the other two classes will provide their own versions of a method that returns the area value. 
+<img src="p6.png">
