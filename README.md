@@ -1,7 +1,9 @@
 # cit281-project-6
+
 [cit281-project-6](https://github.com/UO-CIT-qiqima/cit281-project-6)
 
 Project 6 Overview:
+
 I am creating three classes.
 1. The first class is the Shape class that will serve as a base class for the other two classes and I use arrow function to calculate the perimeter of the specific shape. 
 2. The second class is the Rectangle class that will inherit from Shape class and I use arrow function to calculate the rectangle area.
